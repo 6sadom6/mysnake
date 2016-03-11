@@ -1,6 +1,0 @@
-D:\666\хня\mysnake\mysnake\mysnake\bin\Debug\mysnake.exe.config
-D:\666\хня\mysnake\mysnake\mysnake\bin\Debug\mysnake.exe
-D:\666\хня\mysnake\mysnake\mysnake\bin\Debug\mysnake.pdb
-D:\666\хня\mysnake\mysnake\mysnake\obj\Debug\mysnake.csprojResolveAssemblyReference.cache
-D:\666\хня\mysnake\mysnake\mysnake\obj\Debug\mysnake.exe
-D:\666\хня\mysnake\mysnake\mysnake\obj\Debug\mysnake.pdb
